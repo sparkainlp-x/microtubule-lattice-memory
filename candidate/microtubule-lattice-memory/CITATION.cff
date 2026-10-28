@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: Microtubule Lattice Memory
+version: 0.1.0
+date-released: 2026-10-27
+authors:
+  - family-names: Brisson
+    given-names: Jean-François
+    orcid: https://orcid.org/0009-0000-9778-5374
+    affiliation: Spark AI NLP, Fredericton, New Brunswick, Canada
+license: AGPL-3.0-only
+repository-code: https://github.com/sparkainlp-x
+abstract: >-
+  A pattern-specific lateral score and two-factor gate on a
+  13x12 lattice toy, separating structured lattice damage
+  from scattered flips at equal flip count. Recall itself
+  is outer-product and ceiling. Synthetic toy only.
+keywords:
+  - holographic-memory
+  - lattice
+  - refusing-gate
+  - negative-results
